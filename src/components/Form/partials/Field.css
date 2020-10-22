@@ -1,0 +1,23 @@
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+label {
+  margin-top: 20px;
+}
+
+.input_error {
+  color: #f44336;
+  font-size: 0.9em;
+  margin: 0;
+}
+
+.input_error_holder {
+ display: none;
+}
